@@ -66,7 +66,7 @@ When I'm not coding, I'm probably:
   <a href="https://github.com/alimo20081">
     <img src="https://img.shields.io/badge/GitHub-alimo20081-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://voidcraft.web.app/">
+  <a href="https://voidcraft-studio.pages.dev/">
     <img src="https://img.shields.io/badge/VoidCraft-Visit%20Website-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
 </p>
