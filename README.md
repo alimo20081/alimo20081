@@ -39,7 +39,7 @@ I believe software should be functional, thoughtful, and visually interesting.
 ### `02 / tech-stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,c++,react,nodejs,nextjs,supabase,prisma,vercel,tailwind,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,react,nodejs,nextjs,supabase,prisma,vercel,tailwind,git,github,linux&perline=6" />
 </p>
 
 ### `03 / my-environment`
