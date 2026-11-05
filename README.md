@@ -1,9 +1,4 @@
-<!--
-  ALI'S GITHUB PROFILE
-  Independent Developer | VoidCraft
--->
-
-<p align="center">
+ <p align="center">
   <img src="./banner.png" width="100%" alt="Ali's cosmic developer banner" />
 </p>
 
@@ -64,68 +59,57 @@ I believe software should be functional, thoughtful, and visually interesting.
 
 A selection of things I've been building.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌌 VoidCraft</h3>
-      My independent creative and development space.
+**🌌 VoidCraft**
 
-      <a href="https://voidcraft-studio.pages.dev/">Visit website →</a>
-    </td>
-    <td width="50%">
-      <h3>🏺 Egyptian Museum</h3>
-      An interactive digital journey through Ancient Egypt, featuring 3D artifacts, historical timelines, and AI.
+My independent creative and development space.
 
-      <a href="https://egyptian-museum.pages.dev/">Explore museum →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ LexFlow</h3>
-      One of my development experiments.
+[Visit website →](https://voidcraft-studio.pages.dev/)
 
-      <a href="https://github.com/alimo20081/LexFlow">Explore repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🎨 VoidCraft Studio</h3>
-      Part of the VoidCraft ecosystem.
+**🏺 Egyptian Museum**
 
-      <a href="https://github.com/alimo20081/Voidcraft-Studio">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📚 Midnight Archive</h3>
-      A digital library experience.
+An interactive journey through Ancient Egypt, featuring 3D artifacts, historical timelines, and AI.
 
-      <a href="https://github.com/alimo20081/Midnight-Archive">Explore repository →</a>
-    </td>
-    <td width="50%">
-      <h3>💻 Rxflow SaaS</h3>
-      Exploring SaaS product development.
+[Explore museum →](https://egyptian-museum.pages.dev/)
 
-      <a href="https://github.com/alimo20081/Rxflow-SaaS">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏫 School Library</h3>
-      An educational resource platform.
+**⚡ LexFlow**
 
-      <a href="https://github.com/alimo20081/School-Library">Explore repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🔊 Code Echo</h3>
-      Another experiment in software development.
+One of my development experiments.
 
-      <a href="https://github.com/alimo20081/Code-Echo">Explore repository →</a>
-    </td>
-  </tr>
-</table>
+[Explore repository →](https://github.com/alimo20081/LexFlow)
+
+**🎨 VoidCraft Studio**
+
+Part of the VoidCraft ecosystem.
+
+[Explore repository →](https://github.com/alimo20081/Voidcraft-Studio)
+
+**📚 Midnight Archive**
+
+A digital library experience.
+
+[Explore repository →](https://github.com/alimo20081/Midnight-Archive)
+
+**💻 Rxflow SaaS**
+
+Exploring SaaS product development.
+
+[Explore repository →](https://github.com/alimo20081/Rxflow-SaaS)
+
+**🏫 School Library**
+
+An educational resource platform.
+
+[Explore repository →](https://github.com/alimo20081/School-Library)
+
+**🔊 Code Echo**
+
+Another experiment in software development.
+
+[Explore repository →](https://github.com/alimo20081/Code-Echo)
 
 <p align="center">
   <a href="https://github.com/alimo20081?tab=repositories">
-    <b>→ Explore all repositories</b>
+    <b>Explore all repositories →</b>
   </a>
 </p>
 
@@ -138,7 +122,7 @@ A selection of things I've been building.
 </p>
 
 <p align="center">
-  <i>406 contributions and counting. The grind continues.</i>
+  <i>Every square has a story. Every commit has a purpose.</i>
 </p>
 
 ---
@@ -174,7 +158,7 @@ Appreciating clever mechanics, creative worlds, and games that occasionally make
 
   Unlocked through `Voidcraft-Studio#1`.
 
-  Code review? Apparently optional that day.
+  Code review? Apparently optional that day. 💀
 
 </details>
 
