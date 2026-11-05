@@ -55,64 +55,116 @@ I believe software should be functional, thoughtful, and visually interesting.
 
 ---
 
-### `04 / featured-projects`
+### <img src="https://img.shields.io/badge/04-PROJECTS-8B5CF6?style=for-the-badge" />
 
-A selection of things I've been building.
+<p align="center">
+  <i>A collection of ideas turned into something real.</i>
+</p>
 
-**🌌 VoidCraft**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My independent creative and development space.
+### 🌌 VoidCraft
 
-[Visit website →](https://voidcraft-studio.pages.dev/)
+**My creative universe.**
 
-**🏺 Egyptian Museum**
+An independent space for building, experimenting, and bringing ideas to life.
 
-An interactive journey through Ancient Egypt, featuring 3D artifacts, historical timelines, and AI.
+<a href="https://voidcraft-studio.pages.dev/"><img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge" /></a>
 
-[Explore museum →](https://egyptian-museum.pages.dev/)
+</td>
+<td width="50%" valign="top">
 
-**⚡ LexFlow**
+### 🏺 Egyptian Museum
 
-One of my development experiments.
+**Where Eternity Whispers in Stone.**
 
-[Explore repository →](https://github.com/alimo20081/LexFlow)
+An interactive Ancient Egypt museum featuring 3D artifacts, historical timelines, and an AI guide.
 
-**🎨 VoidCraft Studio**
+<a href="https://egyptian-museum.pages.dev/"><img src="https://img.shields.io/badge/EXPLORE-F59E0B?style=for-the-badge" /></a>
 
-Part of the VoidCraft ecosystem.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Explore repository →](https://github.com/alimo20081/Voidcraft-Studio)
+### ⚡ LexFlow
 
-**📚 Midnight Archive**
+**A new experiment.**
 
-A digital library experience.
+One of my ongoing development projects.
 
-[Explore repository →](https://github.com/alimo20081/Midnight-Archive)
+<a href="https://github.com/alimo20081/LexFlow"><img src="https://img.shields.io/badge/SOURCE-06B6D4?style=for-the-badge" /></a>
 
-**💻 Rxflow SaaS**
+</td>
+<td width="50%" valign="top">
 
-Exploring SaaS product development.
+### 🎨 VoidCraft Studio
 
-[Explore repository →](https://github.com/alimo20081/Rxflow-SaaS)
+**Inside the VoidCraft ecosystem.**
 
-**🏫 School Library**
+A project exploring the next chapter of my creative work.
+
+<a href="https://github.com/alimo20081/Voidcraft-Studio"><img src="https://img.shields.io/badge/SOURCE-EC4899?style=for-the-badge" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Midnight Archive
+
+**A digital library experience.**
+
+Exploring a cinematic approach to educational resources.
+
+<a href="https://github.com/alimo20081/Midnight-Archive"><img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Rxflow SaaS
+
+**Building for the web.**
+
+Exploring SaaS application development.
+
+<a href="https://github.com/alimo20081/Rxflow-SaaS"><img src="https://img.shields.io/badge/SOURCE-14B8A6?style=for-the-badge" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Library
+
+**Knowledge, organized.**
 
 An educational resource platform.
 
-[Explore repository →](https://github.com/alimo20081/School-Library)
+<a href="https://github.com/alimo20081/School-Library"><img src="https://img.shields.io/badge/SOURCE-3B82F6?style=for-the-badge" /></a>
 
-**🔊 Code Echo**
+</td>
+<td width="50%" valign="top">
 
-Another experiment in software development.
+### 🔊 Code Echo
 
-[Explore repository →](https://github.com/alimo20081/Code-Echo)
+**Another idea taking shape.**
+
+A project in my growing collection of experiments.
+
+<a href="https://github.com/alimo20081/Code-Echo"><img src="https://img.shields.io/badge/SOURCE-F97316?style=for-the-badge" /></a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/alimo20081?tab=repositories">
-    <b>Explore all repositories →</b>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 ---
 
 ### `05 / contribution-activity`
