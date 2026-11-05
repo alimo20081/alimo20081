@@ -63,7 +63,7 @@ Some things I've been building:
 ### `$ github --contributions`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alimo20081/alimo20081/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/alimo20081/alimo20081/output/github-contribution-grid-snake-dark.svg?v=2" />
 </p>
 
 <p align="center">
