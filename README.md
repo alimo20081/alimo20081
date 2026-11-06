@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/EXPERIMENTING-06B6D4?style=flat-square" />
   <img src="https://img.shields.io/badge/ALWAYS_BUILDING-F472B6?style=flat-square" />
 </p>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Building+with+purpose;Designing+systems%2C+not+just+interfaces;Turning+ideas+into+working+software;AI-assisted%2C+human-directed.;Probably+debugging+something+right+now...;It+works+on+my+machine.+Probably.)
 <p align="center">
   <a href="https://voidcraft-studio.pages.dev/">Website</a> ·
   <a href="https://github.com/alimo20081?tab=repositories">Repositories</a> ·
