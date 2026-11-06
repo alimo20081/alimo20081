@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/ALWAYS_BUILDING-F472B6?style=flat-square" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Designing+Systems%2C+Not+Just+Interfaces;Turning+Ideas+Into+Working+Software;Bruh-It-Broke-Again;Probably+Debugging+Something+Right+Now;It+Works+On+My+Machine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Designing+Systems%2C+Not+Just+Interfaces;Turning+Ideas+Into+Working+Software;AI-Assisted%2C+Human-Directed;Building+Things+That+Solve+Real+Problems;Bruh%2C+It+Broke+Again;Debugging+Is+Just+Detective+Work;Probably+Refactoring+Something;It+Works+On+My+Machine)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://voidcraft-studio.pages.dev/">Website</a> ·
